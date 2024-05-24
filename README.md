@@ -5,9 +5,9 @@ A Django based Python web application that makes use of Machine Learning to pred
 - Get predictions on the likelihood of having diabetes.
 - User-friendly interface for easy interaction.
 
-![image](Screenshot (185).png)
+![image](https://github.com/SIRREG001/diabetes_prediction_project/blob/main/Screenshot%20(185).png)
 
-![image](Screenshot (186).png)
+![image](https://github.com/SIRREG001/diabetes_prediction_project/blob/main/Screenshot%20(186).png)
 ## Technologies Used
 - Django: Web framework for building the application.
 - Jupiter Notebook: for model training
