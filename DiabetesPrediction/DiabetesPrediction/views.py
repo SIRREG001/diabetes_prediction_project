@@ -1,7 +1,4 @@
 from django.shortcuts import render
-from joblib import load
-from django.http import HttpResponse
-
 # Import the libraries installed
 import pandas as pd
 import numpy as np
@@ -18,12 +15,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-
-
-# Load the trained model
-# trained_model = load('trained_model.joblib')
-
-# Create your views here.
 
 
 def home(request):
